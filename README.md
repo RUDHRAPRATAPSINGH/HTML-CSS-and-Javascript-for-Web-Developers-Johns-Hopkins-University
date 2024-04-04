@@ -1,6 +1,9 @@
 # HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University
 HTML, CSS, and Javascript for Web Developers Johns Hopkins University Answers
+
+
 Week-1 
+=======================================================================================================================================================================================================================================================================================================================================
  * Welcome to HTML, CSS, and Javascript for Web Developers!(Optional Practice Quiz)
 ![Screenshot (199)](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/559fdb60-b3ad-4e38-968e-3edb111e4e9a)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -57,5 +60,124 @@ Essential HTML5 Tags
 
 
 MODULE 1 QUIZ IS COMBINATION OF ABOVE ALL QUESTIONS
+
+#WEEK 2
+=======================================================================================================================================================================================================================================================================================================================================
+Cascading Style Sheets Basics
+![image](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/5c7a7296-36a1-4d60-bfd1-5e33acfa1fe5)
+![Screenshot 2024-04-04 201030](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/7178162a-69d2-4ecc-8755-0b7e5e2efd25)
+![Screenshot 2024-04-04 201045](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/42e4fa47-13cd-4147-9e1b-fae9c0e533f2)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+![Screenshot 2024-04-04 201413](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/3ef06bdb-4682-4585-b9cb-e1d8f0f8727d)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Screenshot 2024-04-04 201648](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/20e758bd-2a03-443b-9dca-44a684bf89f9)
+
+![Screenshot 2024-04-04 201826](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/4b15073e-20af-48fe-bf48-67211bc24997)
+
+![Screenshot 2024-04-04 201901](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/7bf43894-24c9-4d7c-9751-bc13f972d519)
+![Screenshot 2024-04-04 202000](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/1efc7b6a-749f-4020-bcd3-4a2661e57999)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Screenshot 2024-04-04 202200](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/e6b80f4d-9f20-4963-8fa4-e5f8d4b6abb7)
+
+![Screenshot 2024-04-04 202234](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/9ead87d7-e618-46e3-a66b-8608618a1a2a)
+
+![Screenshot 2024-04-04 202306](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/b5efcc0f-e87a-4657-8ce9-22226849c8c4)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+CSS Rules Conflict Resolution and Text Styling
+
+![Screenshot 2024-04-04 202439](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/b6fdfca3-a297-4868-b26e-5eb9f4db50e8)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Screenshot 2024-04-04 202534](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/6a98e526-1e2b-4e10-bf35-61706173ff7f)
+![Screenshot 2024-04-04 202607](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/2a2a2031-f56a-4161-b8a5-c9b2f5847374)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Screenshot 2024-04-04 202749](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/e964a0e3-4c1e-4d8c-8027-b865f61bb308)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The Box Model and Layout
+
+![Screenshot 2024-04-04 203022](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/e0c96f89-5fa1-48e3-a842-74aada5e7bb7)
+![Screenshot 2024-04-04 203056](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/78498e15-e32c-4781-86c1-05af1cb72826)
+![Screenshot 2024-04-04 203116](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/7df93167-27e5-4c20-bf77-5f8b73046507)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Screenshot 2024-04-04 203237](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/ee7ce1a6-e2b8-4f28-8b64-652f608f4907)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Screenshot 2024-04-04 203343](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/cacb67b7-0b9d-404d-b5a4-42eddf36877c)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Screenshot 2024-04-04 203416](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/d379b0a4-576d-407b-b2a4-43ee1291f006)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Introduction to Responsive Design
+
+![Screenshot 2024-04-04 203517](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/5ed81e93-2fd0-404e-91ac-3b567df797c4)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Screenshot 2024-04-04 203612](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/d99f6171-c37b-4317-8858-2bcfb0ccd25e)
+![Screenshot 2024-04-04 203630](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/888be5e0-235b-4efd-b14b-02f1e923701c)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Introduction to Twitter Bootstrap
+
+![Screenshot 2024-04-04 203739](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/1179ff9c-fc4e-4f0b-9cbb-bab5d0ed2835)
+
+![Screenshot 2024-04-04 203820](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/e1f69775-1f24-4859-8a74-967f1f80e4a7)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WEEK 3
+==================================================================================================================================================================
+
+Visit with the Client & Setup Overview
+
+![Screenshot 2024-04-04 204229](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/bb955851-06d1-4ae2-a028-371ac3999963)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Coding the Navigation Bar of the Site
+
+![Screenshot 2024-04-04 204530](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/75942261-ea5b-4fe4-bab8-e214568f8e49)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Screenshot 2024-04-04 204652](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/96a37e0d-e526-478e-b09d-46612a8d6146)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Coding the Homepage and the Footer
+
+![Screenshot 2024-04-04 205028](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/c5086815-dfaf-4f29-8982-0eb8f841356a)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Screenshot 2024-04-04 205123](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/589fe091-0d0b-49ac-90b3-c63de6b78ee4)
+
+![Screenshot 2024-04-04 205150](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/6cea532f-bbfc-47d2-9ecc-d8ab1f92dbc1)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WEEK 4
+=================================================================================================================================================================
 
 

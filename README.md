@@ -1,4 +1,4 @@
-# HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University
+![image](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/301cacc5-f20d-4e7e-be0e-09be4d9bd1eb)# HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University
 HTML, CSS, and Javascript for Web Developers Johns Hopkins University Answers
 
 
@@ -180,4 +180,55 @@ Coding the Homepage and the Footer
 WEEK 4
 =================================================================================================================================================================
 
+Javascript Basics
+![Screenshot 2024-04-04 205952](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/25b038b7-9f22-4739-ac29-4402ba083a07)
+![Screenshot 2024-04-04 210049](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/0a83cda2-cdab-410e-ab08-a55ffa35e456)
+![Screenshot 2024-04-04 210122](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/da102f18-b68a-4057-a3c0-faf93b2deef1)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Javascript Types and Common Language Constructs
+
+![Screenshot 2024-04-04 210323](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/6cb24d61-a96c-42e6-8324-34f0f3b9905c)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+![Screenshot 2024-04-04 210417](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/8f92e4fc-16ba-47cd-a42f-8924d2d98824)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Objects and Functions in Javascript
+
+![Screenshot 2024-04-04 210610](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/dc2a0620-2210-4e6c-ab77-bc5bfa9c9c64)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+![Screenshot 2024-04-04 210727](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/f44d6474-5e5c-4cdb-8a7d-0fbb3579e55c)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Screenshot 2024-04-04 210727](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/9e6b434c-13eb-419d-badf-cc19c1bb25a7)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Screenshot 2024-04-04 211128](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/28b0d371-2005-49c5-9066-7087e6f37a9f)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Arrays, Closures, and Namespaces
+
+![Screenshot 2024-04-04 211313](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/2b263130-8ccc-4457-aa97-69b23ddae40a)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Screenshot 2024-04-04 211402](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/cfc54227-c7ef-4b07-879a-4000f2b00ecf)
+![Screenshot 2024-04-04 211439](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/bbca1508-6c19-466b-be44-8811cdad7fda)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WEEK 5
+==============================================================================================================================================================
 

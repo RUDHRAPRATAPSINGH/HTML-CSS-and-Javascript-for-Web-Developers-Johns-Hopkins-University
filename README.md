@@ -1,4 +1,4 @@
-![image](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/301cacc5-f20d-4e7e-be0e-09be4d9bd1eb)# HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University
+
 HTML, CSS, and Javascript for Web Developers Johns Hopkins University Answers
 
 
@@ -8,11 +8,13 @@ Week-1
 ![Screenshot (199)](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/559fdb60-b3ad-4e38-968e-3edb111e4e9a)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-    Development Environment Setup
+ Development Environment Setup
+ 
 ![Screenshot 2024-04-04 194326](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/eecfda03-f8d5-4880-bef0-078e3f429cfb)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
-    HTML Basics
+HTML Basics
 
 ![Screenshot 2024-04-04 194518](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/a02e5629-a2d2-4c45-84b9-3ad288df2865)
 
@@ -231,4 +233,19 @@ Arrays, Closures, and Namespaces
 
 WEEK 5
 ==============================================================================================================================================================
+
+Document Object Model Manipulation
+
+![Screenshot 2024-04-05 093748](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/2f63f73a-e778-4b2d-9295-8d36e45e21f5)
+![Screenshot 2024-04-05 093831](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/dd39887b-4647-4bec-b0f5-0e11c7deff84)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Introduction to Ajax
+![Screenshot 2024-04-05 093930](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/5a8c45f3-fd4e-489d-ac5f-904ad10b7c8e)
+
+-------------------------------------------
+
+![Screenshot 2024-04-05 094010](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/ebb14b86-3ce9-4902-8c95-7cb9c27f6b5b)
+![Screenshot 2024-04-05 094322](https://github.com/RUDHRAPRATAPSINGH/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/assets/118198835/5f9bceac-7231-48a9-a1c5-7f21aec5a241)
 
